@@ -238,11 +238,11 @@ if prompt := st.chat_input("Ask a question about TOPIC..."):
 # TO DO: Example questions in an expander
 with st.expander("💡 Example Questions"):
     examples = [
-        "Give me an outline of the Bible Project's video of the book of Chronicles.",
-        "What are the main themes in Chronicles?",
-        "How does Chronicles portray King David?",
-        "What is the structure of 1 Chronicles?",
-        "How does Chronicles differ from Kings?"
+        "What should my first step be in learning the guitar?",
+        "What are the essential chords to learn?",
+        "How quickly will I be able to play songs?",
+        "Is it worth it to learn how to read music?",
+        "What kind of guitar is best to learn on?"
     ]
     
     for example in examples:
